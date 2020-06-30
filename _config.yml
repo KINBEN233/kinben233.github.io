@@ -1,12 +1,12 @@
 ﻿# Basic
-title: 小呼哥
-subtitle: 个人网站
-description: 欢迎来到我的个人网站~
+title: 勤勉233
+subtitle: 个人博客
+description: 欢迎来到我的个人博客~
 # 头像里面的标题
-avatarTitle: 呼伟
+avatarTitle: きんべん
 # 头像里面的描述
 avatarDesc: 小白/入门
-url: "https://wade410.github.io/"
+url: "https://kinben233.github.io/"
 
 # Comment
 comment:
@@ -16,11 +16,11 @@ comment:
 
 # Social
 social:
-    weibo: 123456789 
-    github: wade410
+    
+    github: KINBEN233
     # zhihu: panpanleopard
     # twitter: 
-    mail: huwei201901@163.com
+    mail: kinbensan233@qq.com
 
 
 # 百度统计 
